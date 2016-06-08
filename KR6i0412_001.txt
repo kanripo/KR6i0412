@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:22.620866
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:30
 #+TITLE: 佛說分別緣生經
 #+PROPERTY: CBETA_ID T16n0718
 #+PROPERTY: ID KR6i0412
